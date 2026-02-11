@@ -24,7 +24,7 @@ module.exports = {
    // let imageUrl;
 
     if (event.reply_to_message) {
-      const botToken = "7533328541:AAHXn1DRTcV6nYFtkz0Lr0NvLpbTFiSWqcM"; 
+      const botToken = "8291688685:AAErkmwiYlBAgYDPckzYc8EPheb7qU8cfyY"; 
       const fileId = event.reply_to_message.video.file_id;
 
       const response = await axios.get(`https://api.telegram.org/bot${botToken}/getFile?file_id=${fileId}`);
