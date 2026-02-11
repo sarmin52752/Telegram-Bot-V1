@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 const baseApiUrl = async () => {
-  return "https://www.noobs-api.rf.gd/dipto";
+  return "https://api.noobs-api.rf.gd/dipto";
 };
 
 module.exports.config = {
