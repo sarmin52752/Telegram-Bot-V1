@@ -1,22 +1,22 @@
 {
-  "owner": "NISAN EDITZ",
-  "fb_ID":"//m.me/61567840496026",
-  "adminName": "NISAN EDITZ",
-  "botName": "Lisa Baby",
-  "token": "8205307355:AAGE8b9h3Wurp9tFIlVBbwSpcib_tmHmCso",
+  "owner": "Zihad Ahmed",
+  "fb_ID":"//m.me/NEZROX",
+  "adminName": "Zihad Ahmed",
+  "botName": "Pookie Bot",
+  "token": "8291688685:AAErkmwiYlBAgYDPckzYc8EPheb7qU8cfyY",
 "mongodbURI":"mongodb+srv://userg4185:zWfR3c1ez5zpAUj0@cluster0.mfbe2.mongodb.net/botbee?retryWrites=true&w=majority&appName=Cluster0",
   "notes":"ADD_YOUR_MONGO_DB_URI for fast response. and if you don't know how to collect mongo uri then see this For database. MongooDB uri => https://drive.google.com/file/d/10AxcIiFQuI9S2gMBwV_i4U8UogMJX8pD/view?usp=drivesdk",
   "prefix": "/",
-  "api": "https://www.noobs-api.rf.gd/dipto",
+  "api": "https://api.noobs-api.rf.gd/dipto",
   "database": {
     "mongo": true,
     "json": false
   },
   "adminBot": [
-    5443875693
+    6608027642
   ],
   "botOperator": [
-    5443875693
+    6608027642
   ],
   "inbox": true,
   "white_list_group": {
@@ -40,7 +40,7 @@
   "premium_list_ID": {
     "enable": false,
     "IDs": [
-      777888999
+      6608027642
     ]
   },
   "unloadCommand": {},
