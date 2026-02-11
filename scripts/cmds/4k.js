@@ -2,7 +2,7 @@ const a = require('axios');
 const tinyurl = require('tinyurl');
 const baseApiUrl = async () => {
   const base = await a.get(
-    `https://raw.githubusercontent.com/Mostakim0978/D1PT0/refs/heads/main/baseApiUrl.json`,
+    `https://raw.githubusercontent.com/sarmin52752/ZIHAD/refs/heads/main/baseApiUrl.json`,
   );
   return base.data.api;
 };
